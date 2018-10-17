@@ -1,0 +1,2 @@
+class Citysearch < ApplicationRecord
+end
